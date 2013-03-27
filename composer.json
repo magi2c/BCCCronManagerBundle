@@ -1,5 +1,5 @@
 {
-    "name": "bcc/cron-manager-bundle",
+    "name": "magi2c/cron-manager-bundle",
     "type": "symfony-bundle",
     "description": "A cron table manager bundle for Symfony2",
     "keywords": ["cron management"],
